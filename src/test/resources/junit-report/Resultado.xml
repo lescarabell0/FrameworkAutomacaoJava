@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.10152">
+<testcase classname="Teste Postman" name="Enviar dados postman" time="0.10152">
+<system-out><![CDATA[Quando realizar uma requisição na url.......................................passed
+]]></system-out>
+</testcase>
+</testsuite>

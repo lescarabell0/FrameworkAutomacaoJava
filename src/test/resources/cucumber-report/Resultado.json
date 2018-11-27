@@ -1,0 +1,63 @@
+[
+  {
+    "comments": [
+      {
+        "line": 1,
+        "value": "#language: pt"
+      }
+    ],
+    "line": 3,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 78634,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.obterNomeScenario(Scenario)"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Enviar dados postman",
+        "description": "",
+        "id": "teste-postman;enviar-dados-postman",
+        "type": "scenario",
+        "keyword": "Cenário",
+        "steps": [
+          {
+            "result": {
+              "duration": 101441288,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "realizar uma requisição na url",
+            "match": {
+              "location": "TesteCucumber.teste()"
+            },
+            "keyword": "Quando "
+          }
+        ],
+        "tags": [
+          {
+            "line": 5,
+            "name": "@api"
+          }
+        ]
+      }
+    ],
+    "name": "Teste Postman",
+    "description": "",
+    "id": "teste-postman",
+    "keyword": "Funcionalidade",
+    "uri": "Funcionalida Api/api.feature",
+    "tags": [
+      {
+        "line": 2,
+        "name": "@Todos"
+      }
+    ]
+  }
+]
